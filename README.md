@@ -7,10 +7,10 @@ OPAP is a Greek company organizing and conducting games of chance. This project 
 
 Project have had used technologies:
 
--Swing for UI
--DerbyDB for database storing
--JPA and JDBC
--Libraries: derbyclient.jar and LGoodDatePicker-11.2.1.jar 
+* Swing for UI
+* DerbyDB for database storing
+* JPA and JDBC
+* Libraries: derbyclient.jar and LGoodDatePicker-11.2.1.jar 
 
 Version of Java is 8 and IDE was designed with Netbeans 12
 
