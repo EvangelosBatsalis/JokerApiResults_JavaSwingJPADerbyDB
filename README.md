@@ -14,7 +14,8 @@ Project have had used technologies:
 
 Version of Java is 8 and Netbeans 12 IDE was used to code. 
 
-Project was created using Scrum methodology group of three using Scrum master and product owner we used 3 sprints of one week each (Please take a look from program Backlog).
+Project was created using Scrum methodology, group of three using Scrum master and product owner.
+We used 3 sprints of one week each (Please take a look to program Backlog).
 Trello for agile board and Priority was planned using PokkerPlanning.
 
 UML and ER-diagrams was designed using visual Paradigm.
