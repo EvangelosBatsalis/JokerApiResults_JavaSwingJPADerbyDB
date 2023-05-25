@@ -12,7 +12,7 @@ Project have had used technologies:
 * JPA and JDBC
 * Libraries: derbyclient.jar and LGoodDatePicker-11.2.1.jar 
 
-Version of Java is 8 and IDE was designed with Netbeans 12
+Version of Java is 8 and Netbeans 12 IDE was used to code. 
 
 Project was created using Scrum methodology group of three using Scrum master and product owner we used 3 sprints of one week each (Please take a look from program Backlog).
 Trello for agile board and Priority was planned using PokkerPlanning.
